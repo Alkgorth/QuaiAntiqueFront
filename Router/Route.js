@@ -5,3 +5,4 @@ export default class Route {
       this.pathHtml = pathHtml;
       this.pathJS = pathJS;
     }
+}
