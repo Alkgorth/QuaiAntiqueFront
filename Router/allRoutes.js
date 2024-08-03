@@ -3,7 +3,7 @@ import Route from "./Route.js";
 //Définir ici vos routes, chaque page créée sera ajouté ici pour indiquer le chemin
 export const allRoutes = [
     new Route("/", "Accueil", "/pages/home.html"),
-    new Route("/404", "404", "/pages/404.html"),
+    new Route("/galerie", "La galerie", "/pages/galerie.html"),
 ];
 
 //Le titre s'affiche comme ceci : Route.titre - websitename
